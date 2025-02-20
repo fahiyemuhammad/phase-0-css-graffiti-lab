@@ -1,1 +1,16 @@
 /* write your override styles here */
+html{
+    margin-left:10px;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+div{
+    background-color: aqua;
+    color:#9acd32;
+}
+.tag-1{
+    display: block;
+    justify-content: first baseline;
+    flex-direction: column;
+    color-scheme: inherit;
+}
